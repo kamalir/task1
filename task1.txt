@@ -1,0 +1,32 @@
+                   logic to count the number of females and males
+1.start
+2.start taking the citizens details
+3.check if gender is male or female
+4.if gender is male, count as male
+5.if gender is female,count as female
+6.check if more citizen are available,then goto step number 2
+7.displaying the number of males and females
+8.stop
+                   logic to how many citizens are graduted
+1.start
+2.getting details of the citizens
+3.if the qualification is equal to graduted or post graduted
+4.count as graduted
+5.check if more citizen are availble ,then goto step number 2
+6.display the number of graduated citizens
+7.stop
+                    logic to how many citizens salary is greater than 1 lakh per month
+1.start
+2.getting details of the citizens
+3.if the salary is greater than 1 lakh per month,count as their salary is greater than 1 lakh
+4.check if more citizens are available,then goto step number 2
+5.display the number of citizens who is having salary is more than 1 lakh per month
+6.stop
+                      logic to check how many are single,married and widow
+1.start
+2.getting details of the citizens
+3.if maritial status is single,count as single
+4.if maritial status is married,count as married
+5.if maritial status is widow,count as widow
+6.check if more citizens are availble,then goto step num2
+7.stop
